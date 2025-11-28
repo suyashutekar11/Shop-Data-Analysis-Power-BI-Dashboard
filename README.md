@@ -1,7 +1,7 @@
 🛒 Shop Data Analysis 
 This Power BI dashboard provides an end-to-end analysis of shop sales performance across states, cities, product categories, customers, and payment modes. It helps understand revenue trends, profit contribution, customer behavior, and product performance through interactive visuals and dynamic filters.
 
-key Features
+Key Features:-
 1. State-Wise & City-Wise Filters
 Allows users to slice the entire report by state and city.
 All visuals update instantly based on the selected region.
@@ -53,7 +53,7 @@ Donut chart showing revenue share through:
 COD, Credit Card, UPI, EMI, Debit Card
 Helps in understanding customer payment preferences.
 
-Summary
+Summary:-
 This dashboard serves as a comprehensive analytical tool for understanding overall shop performance. It highlights:
 Revenue & profit metrics
 Market performance by state/city
