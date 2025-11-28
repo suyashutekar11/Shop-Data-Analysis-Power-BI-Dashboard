@@ -64,4 +64,5 @@ Ideal for business owners, analysts, and decision-makers who want a complete vie
 
 Sceenshots:
 This is how the dashboard looks
-https://github.com/suyashutekar11/Shop-Data-Analysis-Power-BI-Dashboard/blob/main/DASHBOARD%20SCREENSHOT
+<img width="1026" height="585" alt="Screenshot 2025-11-28 104853" src="https://github.com/user-attachments/assets/053f0642-b1bf-43ca-bcc8-9d71131595d5" />
+
